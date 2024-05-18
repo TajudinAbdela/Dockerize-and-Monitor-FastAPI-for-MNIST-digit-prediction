@@ -1,0 +1,8 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+prometheus-fastapi-instrumentator==7.0.0
+pillow==8.3.2
+keras==3.3.3
+tensorflow==2.16.1
+psutil==5.9.8
+prometheus_client==0.20.0
